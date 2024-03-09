@@ -1,0 +1,3 @@
+Transaction Date,Details,Account,Category,Subcategory,Notes,Debit,Credit,Balance,Original Description
+"29 Feb 2023","Payment","Example Account","Income","Interest","","","123.00","456.","Payment"
+"28 Feb 2023","From Thomas Schwarz - Credit To Account","Example Account","Financial","Transfers","","","789","444.44","From THOMAS SCHWARZ - CREDIT TO ACCOUNT"
